@@ -15,10 +15,13 @@
 - test: test
 
 # Todo
+- xml e bak
+
 
 # Problems
 
 # Log
+14-Jan-2022 0.12 add: architectural change from qt to kivy framework
 09-Jan-2022 0.11 add: hello world test
 09-Jan-2022 0.10 add: Project started
 
