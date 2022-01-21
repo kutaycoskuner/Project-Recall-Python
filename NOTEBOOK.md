@@ -4,7 +4,7 @@ Reference organizer gui project for master/phd students.
 
 # Information
 - <Language>: Python
-- <Framework>: Wt for Python
+- <Framework>: TkInter
 
 # Links
 - qt for python documentation
@@ -48,6 +48,10 @@ Reference organizer gui project for master/phd students.
 - <install qt>
   - pip install pyside6
 
+- <kivy: how to display Widgets>
+
+
+
 # Theory
 - what is pip
   - python package manager to download and manage packages for python
@@ -59,6 +63,8 @@ Reference organizer gui project for master/phd students.
 - what is pyside
   - https://en.wikipedia.org/wiki/PySide
   - pyside is a python binding of a the cross-platofmr gui toolkit qt developed by the qt company
+
+- placement stragetgies
 
 # Time Log
 - 14-Jan-2022 00.27-xx.xx 
